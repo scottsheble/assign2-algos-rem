@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		676A727E2AB56EE800939DE1 /* assign2-algos-rem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "assign2-algos-rem"; sourceTree = BUILT_PRODUCTS_DIR; };
 		676A72812AB56EE800939DE1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		676A72882AB56F1300939DE1 /* assign2-algos.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "assign2-algos.h"; sourceTree = "<group>"; };
+		676A72892AB56F7100939DE1 /* assign2-algos.decl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "assign2-algos.decl.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				676A72812AB56EE800939DE1 /* main.cpp */,
+				676A72882AB56F1300939DE1 /* assign2-algos.h */,
+				676A72892AB56F7100939DE1 /* assign2-algos.decl.h */,
 			);
 			path = "assign2-algos-rem";
 			sourceTree = "<group>";
